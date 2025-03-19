@@ -1,5 +1,5 @@
-`docker compose docker-compose.yml up`
+`docker compose build`
 
-`docker compose docker-compose.yml down`
+`docker compose up`
 
-`docker compose docker-compose.yml build`
+`docker compose down`
